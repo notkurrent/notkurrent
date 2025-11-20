@@ -2,8 +2,10 @@
 
   # Hi there, I'm Gayas! 👋
   
-  **Python Developer & Telegram Mini Apps Specialist** 🚀
+  ### Python Developer & Telegram Mini Apps Specialist 🚀
   
+  *I build seamless, efficient, and user-friendly solutions inside Telegram. Focused on performance, security, and delightful user experiences.*
+
   <br/>
 
   <a href="https://t.me/notkurrent">
@@ -22,7 +24,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,postgres,supabase,render,docker,githubactions&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,postgres,supabase,render,docker,githubactions,google&theme=dark" />
   </a>
 </div>
 
@@ -31,8 +33,8 @@
 ### <div align="center">📊 Activity</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notkurrent&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkurrent&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=notkurrent&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3382ff&text_color=bfbfbf" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkurrent&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3382ff&text_color=bfbfbf" height="160" alt="languages" />
 </div>
 
 <br/>
@@ -41,10 +43,10 @@
 
 <div align="center">
 
-| **Sana — Finance Tracker TMA** |
+| **Sana — Personal Finance Tracker TMA** |
 | :---: |
-| **FastAPI • PostgreSQL • Gemini AI • Vanilla JS** |
-| Fully integrated financial assistant inside Telegram.<br>No installs, biometric security, instant load. |
-| [**View Project →**](https://github.com/notkurrent/sana) |
+| **Stack:** Python (FastAPI), PostgreSQL (Supabase), Vanilla JS, Google Gemini AI. |
+| Fully integrated financial assistant inside Telegram. <br> Key Features: Instant load time (SPA), Biometric-like security (HMAC), AI financial advice. |
+| [**View Project & Code →**](https://github.com/notkurrent/sana) |
 
 </div>
