@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,postgres,supabase,render,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,postgres,supabase,docker,git&theme=dark" />
   </a>
 </div>
 
