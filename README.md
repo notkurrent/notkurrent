@@ -18,26 +18,17 @@
 
 </div>
 
-<br/>
+---
 
 ### <div align="center">🛠️ Tech Stack</div>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,postgres,supabase,render,docker,githubactions,google&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,postgres,supabase,render,docker,githubactions&theme=dark" />
   </a>
 </div>
 
-<br/>
-
-### <div align="center">📊 Activity</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notkurrent&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3382ff&text_color=bfbfbf" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkurrent&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3382ff&text_color=bfbfbf" height="160" alt="languages" />
-</div>
-
-<br/>
+---
 
 ### <div align="center">🚀 Featured Work</div>
 
