@@ -1,39 +1,27 @@
-<div align="center">
+# Hi, I'm Gayas 👋
 
-  # Hi there, I'm Gayas! 👋
-  
-  ### Python Developer & Telegram Mini Apps Specialist 🚀
-  
-  *I build seamless, efficient, and user-friendly solutions inside Telegram. Focused on performance, security, and delightful user experiences.*
+### Backend / Full-Stack Software Engineer
 
-  <br/>
+I build end-to-end digital products with Python, FastAPI, TypeScript, Next.js, PostgreSQL, and Docker. I focus on APIs, authentication, integrations, testing, and deployment, using AI selectively where it adds practical value.
 
-  <a href="https://t.me/notkurrent">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram" />
-  </a>&nbsp;
-  <a href="mailto:notkurrent@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" />
-  </a>
+## Selected Projects
 
-</div>
+### [Polka - Local Commerce Marketplace](https://github.com/notkurrent/polka)
 
----
+A full-stack marketplace for nearby store offers with buyer, partner, and admin workflows, JWT and Telegram authentication, role-based access, PostGIS geospatial search, media uploads, tests, CI, and Docker/Caddy deployment.
 
-### <div align="center">🛠️ Tech Stack</div>
+**Stack:** Next.js, TypeScript, FastAPI, PostgreSQL/PostGIS, Docker
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,postgres,supabase,docker,git&theme=dark" />
-  </a>
-</div>
+### [Sana - AI-Powered Personal Finance Tracker](https://github.com/notkurrent/sana)
 
----
+A personal finance Telegram Mini App with FastAPI, async PostgreSQL, HMAC authentication, multi-currency analytics, Gemini-powered insights, tests, and Docker/Nginx deployment.
 
-### 🚀 Featured Project: Sana
+**Stack:** FastAPI, PostgreSQL, JavaScript, Docker, Google Gemini
 
-My latest work is **Sana**, a fully integrated Personal Finance Tracker for Telegram.
+## Tech Stack
 
-* **Stack:** Python (FastAPI), Vanilla JS, PostgreSQL, Gemini AI.
-* **Key Features:** Instant load time (SPA), Biometric-like security (HMAC), AI financial advice.
+`Python` `FastAPI` `TypeScript` `Next.js` `React` `PostgreSQL` `PostGIS` `Docker` `GitHub Actions` `Pytest`
 
-[**View Project →**](https://github.com/notkurrent/sana)
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/gayas-serikuly-3281012b1) | [Telegram](https://t.me/notkurrent)
